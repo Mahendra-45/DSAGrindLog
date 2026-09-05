@@ -1,9 +1,8 @@
-# Revisit Later
+# DSA Grind Log — Master Index
 
-Problems that need another pass — kept here permanently, never removed.
+Total Problems Solved: 0
 
-Total Flagged: 0
-
-- **Course Schedule** — LeetCode (Medium) — [Day file](../Daily/2026/01-01.md#course-schedule)
-  - Topics: Graphs, Topological Sort
-  - Why: Kept confusing in-degree tracking with visited state
+| Date | Problem | Platform | Difficulty | Topics | Status | Revisit | Link |
+|---|---|---|---|---|---|---|---|
+| 2026-01-01 | Two Sum | LeetCode | Easy | Arrays, Hashing | ✅ | No | [Day file](../Daily/2026/01-01.md#two-sum) |
+| 2026-01-01 | Course Schedule | LeetCode | Medium | Graphs, Topological Sort | 🔁 | 🔖 Yes | [Day file](../Daily/2026/01-01.md#course-schedule) |
